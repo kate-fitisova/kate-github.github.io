@@ -1,0 +1,62 @@
+body{
+   background: url(bumaga_staryy_fon_poverhnost_pyatna_65903_2560x1600.jpg);
+   background-attachment: fixed;
+   min-height: 80px;
+   width: 100px;
+   height: 80px;
+   background-size: cover;
+}
+.a1{
+    background: #dfbf9f;
+   height: 60px;
+   width: 1300px;
+   display: inline-block;
+   border-radius: 100px;
+   margin-left:250px;
+   margin-top:15px;
+   position: absolute;
+}
+.a2{display: inline-block;}
+.l1{
+   font-size: 30px;
+     margin-top: 10px;
+     margin-left: 60px;
+}
+.l2{
+   font-size: 30px;
+     margin-top: 10px;
+     margin-left: 50px;
+}
+.l3{
+   font-size: 30px;
+     margin-top: 10px;
+     margin-left: 60px;
+}
+.l4{
+   font-size: 30px;
+     margin-top: 10px;
+     margin-left: 50px;
+}
+.a3{
+   background: ;
+   width: 1200px;
+   height: 1200px;
+   position: absolute;
+   margin-top: 100px;
+   margin-left: 300px; 
+}
+.l5{
+   font-size: 26px;
+     margin-top: 40px;
+     text-align: center;
+}
+.l6{
+   font-size: 28px;
+     margin-top: 15px;
+     text-align: center;
+}
+.l7{
+   font-size: 23px;
+     margin-top: 20px;
+     text-align: left;
+}  
