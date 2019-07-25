@@ -61,5 +61,7 @@ body{
      text-align: left;
 }  
 @media screen and (max-device-width:500px){
-    body {width: 100%;}
-    } 
+    body {background: #cc9966;
+    background-size: cover;}
+    .a1{width: 100%;}
+} 
