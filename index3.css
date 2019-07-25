@@ -50,3 +50,11 @@ body{
    margin-top: 100px;
    margin-left: 300px; 
 }
+@media screen(max-width: 500px){
+  body{background: url(bumaga_staryy_fon_poverhnost_pyatna_65903_2560x1600.jpg);
+   background-attachment: fixed;
+   min-height: 80px;
+   width: 50px;
+   height: 200px;
+   background-size: cover;}
+}
